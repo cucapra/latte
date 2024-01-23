@@ -1,0 +1,8 @@
+base_url = "https://capra.cs.cornell.edu/latte24/"
+compile_sass = false
+highlight_code = false
+build_search_index = false
+
+# Don't refuse to compile when we refer to generated anchors.
+[link_checker]
+internal_level = "warn"
