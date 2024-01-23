@@ -5,8 +5,8 @@ Submit your **2-page position paper** via [HotCRP][].
 Important dates:
 
 - Paper submission: **March 8, 2024**
-- Author Notification: **February 21, 2023**
-- Workshop: **March 26, 2023**
+- Author Notification: **March 22, 2024**
+- Workshop: **April 28, 2024**
 
 ### Overview
 
