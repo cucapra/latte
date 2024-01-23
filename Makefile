@@ -11,6 +11,6 @@ serve:
 RSYNCARGS := --compress --recursive --checksum --itemize-changes \
 	--delete -e ssh --no-perms --chmod=Du=rwx,Dgo=rx,Fu=rw,Fog=r \
 	--exclude=.DS_Store
-DEST := courses:coursewww/capra.cs.cornell.edu/htdocs/latte23
+DEST := courses:coursewww/capra.cs.cornell.edu/htdocs/latte24
 deploy: site
 	rsync $(RSYNCARGS) ./web/public/ $(DEST)
