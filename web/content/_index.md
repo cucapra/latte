@@ -10,11 +10,13 @@ Important dates:
 
 ### Overview
 
-**Motivation.**
-Hardware acceleration is a key part of combating the stagnation of hardware performance scaling. Implementing accelerators with state-of-the-art hardware design flows, such as traditional HDLs and current HLS tools, remains a specialized task requiring EE training, proprietary toolchains, and extremely slow compile-edit-run cycles. While traditional approaches *might* be appropriate for developing general-purpose CPUs that will ship millions of units, they are an impediment to popularizing acceleration for the “long tail” of applications that could benefit from special-purpose hardware. With new language designs and new techniques inspired by traditional compilers research, there is an opportunity to turn accelerator construction from a years-long enterprise into a weekend project.
+The world deserves better tools for designing custom hardware accelerators. We believe the world of programming languages research can help. New language designs, compiler optimizations, program analyses, type systems, auxiliary engineering tools like debuggers and profilers, testing frameworks: all these topics have deep research traditions in software, and they all have a role to play in making hardware design better.
 
-**Scope.**
-LATTE is a venue for discussion, debate, and brainstorming at the intersection of hardware acceleration and programming languages research. The focus is on new languages and tools that aim to let domain specialists, not just hardware experts, produce efficient accelerators. A full range of targets are in scope: ASICs (silicon), FPGAs, CGRAs, or future reconfigurable hardware. A wide variety of research topics are in scope including, but not limited to:
+LATTE is a venue for discussion, debate, and brainstorming at the intersection of hardware acceleration and programming languages research. The core mission is to bring ideas we love from software programming languages and tools to the world of hardware design.
+
+LATTE has a special focus on open-source research. We encourage work that comes with real, permissively licensed implementations.
+
+For LATTE, "hardware" includes ASICs, FPGAs, CGRAs, and other reconfigurable hardware. While the scope is broad, here are a few ideas to get you started:
 
 - Domain-specific languages for accelerator design
 - Compilers for optimizing hardware designs
@@ -29,6 +31,7 @@ LATTE solicits short position papers that need not fit the mold of a traditional
 - Retrospectives on past efforts on tools, languages, and techniques for accelerator design
 - Calls for solutions to open challenges in the area (questions without answers)
 - Demonstrations of real systems (to be shown off in a live demo at the workshop)
+- Overviews of open-source projects, even when the novelty with respect to proprietary alternatives is limited
 
 ### Position Papers
 
