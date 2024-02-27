@@ -56,7 +56,12 @@ As much as possible, dispose with the framing and motivation so you can focus on
 Remember that the goal at LATTE is to stimulate discussion, not to disseminate fully polished results.
 So don't be afraid to write up half-baked ideas and in-progress work: it's OK if your submission has zero bar charts, for example.
 
-For examples of past position papers, consider looking at the programs for [LATTE ’22][latte-22] and [’21][latte-21].
+For examples of past position papers, consider looking at the programs for [LATTE ’23][latte-23], [’22][latte-22], and [’21][latte-21].
+
+## Hybrid Format
+
+LATTE 2024 will run in a hybrid format, i.e., it will be possible to join either in person (in San Diego) or online (on Zoom).
+Talks at the workshop can use either modality, so please consider submitting even if you cannot attend in person.
 
 [hotcrp]: https://latte.cs.cornell.edu/
 [snapl]: http://cs.brown.edu/~sk/Memos/Conference-Discussion-Format/
@@ -64,5 +69,4 @@ For examples of past position papers, consider looking at the programs for [LATT
 [format-example]: https://github.com/cucapra/latte23/tree/main/camera-ready
 [latte-21]: https://capra.cs.cornell.edu/latte21/
 [latte-22]: https://capra.cs.cornell.edu/latte22/
-
-
+[latte-23]: https://capra.cs.cornell.edu/latte23/
