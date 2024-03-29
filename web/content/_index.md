@@ -8,6 +8,8 @@ LATTE is a venue for discussion, debate, and brainstorming at the intersection o
 We have 17 accepted position papers, an exciting keynote, and a hands-on demo.
 We'll post a complete program here soon.
 
+For authors: final versions of accepted position papers are due on April 23 via [HotCRP][].
+
 ## Attending LATTE
 
 LATTE is a hybrid workshop; please consider attending either in person (in San Diego, co-located with [ASPLOS][]) or virtually (on Zoom). LATTE will be held in the mornings on April 27--28, 2024.
@@ -19,3 +21,4 @@ LATTE is a hybrid workshop; please consider attending either in person (in San D
 [asplos]: https://www.asplos-conference.org/asplos2024/
 [asplos-reg]: https://www.asplos-conference.org/asplos2024/attend/#registration
 [zoom]: https://cornell.zoom.us/meeting/register/tJYlceCgpjkvEtcBL_b7hFWpbShI_Je4mSU8
+[hotcrp]: https://latte.cs.cornell.edu
