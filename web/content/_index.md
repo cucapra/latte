@@ -15,6 +15,9 @@ LATTE is a hybrid workshop; please consider attending either in person (in San D
 Here's a tentative schedule for the two days of the workshop.
 All times are in San Diego time (US Pacific).
 
+Talks in the sessions are 7 minutes, each with 1 minute of short clarification questions.
+Each session will have 6 minutes of shared discussion time directed toward all the authors in a given session.
+
 ### Saturday, April 27
 
 | Time (Pacific) | Event |
@@ -35,6 +38,7 @@ All times are in San Diego time (US Pacific).
 | 10–10:30am | Break |
 | 10:30–11am | [Session 5](#session-5) |
 | 11–11:20am | [Session 6](#session-6) |
+| 11:20-noon | Discussion: Building a Community |
 
 ## Talk Sessions
 
