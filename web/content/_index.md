@@ -3,12 +3,43 @@
 
 LATTE is a venue for discussion, debate, and brainstorming at the intersection of hardware acceleration and programming languages research. The core mission is to bring ideas we love from software programming languages and tools to the world of hardware design. For more details on the workshop's focus, see [the call for papers][cfp].
 
-## Program Coming Soon
+## Papers Coming Soon
 
 We have 17 accepted position papers, an exciting keynote, and a hands-on demo.
-We'll post a complete program here soon.
+We'll post the papers here soon.
 
 For authors: final versions of accepted position papers are due on April 23 via [HotCRP][].
+
+## Tentative Program
+
+Here's a tentative schedule for the two days of the workshop.
+All times are in San Diego time (US Pacific).
+
+### Saturday, April 27
+
+| Time (Pacific) | Event |
+|----------------|-------|
+| 8:45-9am | Introductions and Overview |
+| 9–10am | TK berkeley tutorial | 
+| 10–10:30am | Break |
+| 10:30–11am | [Session 1](#session-1) |
+| 11–11:30am | [Session 2](#session-2) |
+| 11:30–noon | [Session 3](#session-3) |
+
+### Sunday, April 28
+
+| Time (Pacific) | Event |
+|----------------|-------|
+| 8:30–9:30am | TK keynote | 
+| 9:30–10am | [Session 4](#session-4) |
+| 10–10:30am | Break |
+| 10:30–11am | [Session 5](#session-5) |
+| 11–11:20am | [Session 6](#session-6) |
+
+## Talk Sessions
+
+TK
+{{ program() }}
 
 ## Attending LATTE
 
