@@ -2,12 +2,12 @@
 
 {% set data = load_data(path="content/accepted.csv", format="csv") %}
 
-{% set sessions = data.records | map(attribute="5") | unique | sort %}
+{% set sessions = data.records | map(attribute="3") | unique | sort %}
 
 {% for session in sessions %}
 <h3 id="{{ session | slugify}}">{{ session }}</h3>
 <ul class="session">
-{% for record in data.records | filter(attribute="5", value=session) %}
+{% for record in data.records | filter(attribute="3", value=session) %}
 <li>
   <div class="paper-info">
   <div class="paper">
@@ -22,16 +22,16 @@
 
   <div class="paper-links">
   <!-- Link to github discussion -->
-  {% if record[3] %}
+  {% if record[4] %}
   <span class="gh-thread button">
-  <a href="{{ record[3] }}">Thread</a>
+  <a href="{{ record[5] }}">Thread</a>
   </span>
   {% endif %}
 
   <!-- Link to YouTube video -->
-  {% if record[4] %}
+  {% if record[5] %}
   <span class="yt button">
-  <a href="{{ record[4] }}">Talk</a>
+  <a href="{{ record[6] }}">Talk</a>
   </span>
   {% endif %}
 
