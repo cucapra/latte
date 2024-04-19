@@ -25,7 +25,7 @@ Each session will have 6 minutes of shared discussion time directed toward all t
 | 8:45–9am | Introductions and Overview |
 | 9–10am | [Invited Talk: Vighnesh Iyer and Joonho Whangbo](#invited-talk) |
 | 10–10:30am | Break |
-| 10:30–11am | [Session 1](#session-1) |
+| 10:30–11am | [Session 1](#session-1): Processors and SoCs |
 | 11–11:30am | [Session 2](#session-2) |
 | 11:30–noon | [Session 3](#session-3) |
 
