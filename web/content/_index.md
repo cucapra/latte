@@ -26,18 +26,18 @@ Each session will have 6 minutes of shared discussion time directed toward all t
 | 9–10am | [Invited Talk: Vighnesh Iyer and Joonho Whangbo](#invited-talk) |
 | 10–10:30am | Break |
 | 10:30–11am | [Session 1](#session-1): Processors and SoCs |
-| 11–11:30am | [Session 2](#session-2) |
-| 11:30–noon | [Session 3](#session-3) |
+| 11–11:30am | [Session 2](#session-2): Reconfigurable Architectures |
+| 11:30–noon | [Session 3](#session-3): Opinions and Directions |
 
 ### Sunday, April 28
 
 | Time (Pacific) | Event |
 |----------------|-------|
 | 8:30–9:30am | [Keynote: Tatiana Shpeisman](#keynote) |
-| 9:30–10am | [Session 4](#session-4) |
+| 9:30–10am | [Session 4](#session-4): HDLs |
 | 10–10:30am | Break |
-| 10:30–11am | [Session 5](#session-5) |
-| 11–11:20am | [Session 6](#session-6) |
+| 10:30–11am | [Session 5](#session-5): The Toolchain |
+| 11–11:20am | [Session 6](#session-6): Systems |
 | 11:20-noon | Discussion: Building a Community |
 
 ## Talk Sessions
