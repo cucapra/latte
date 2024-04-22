@@ -99,6 +99,17 @@ ul.session {
   margin-top: 0.3em;
 }
 
+.paper .marker {
+  text-transform: uppercase;
+  background: #98694F;
+  color: white;
+  padding: 4px;
+  font-weight: bold;
+  font-size: 60%;
+  border-radius: 4px;
+  font-family: sans-serif;
+}
+
 .paper-links {
   margin-top: .3em;
   margin-bottom: .8em;

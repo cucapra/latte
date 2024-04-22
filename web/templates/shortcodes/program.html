@@ -14,6 +14,9 @@
   <a href="{{ get_url(path="paper/" ~ record[0] ~ ".pdf") }}">
   <strong>{{ record[1] }}</strong>
   </a>
+  {% if record[4] == "true" %}
+    <span class="marker">virtual</span>
+  {% endif %}
   </div>
   <div class="authors">
   {{ record[2] }}
@@ -21,6 +24,7 @@
   </div>
 
   <div class="paper-links">
+  {#
   <!-- Link to github discussion -->
   {% if record[4] %}
   <span class="gh-thread button">
@@ -34,6 +38,7 @@
   <a href="{{ record[6] }}">Talk</a>
   </span>
   {% endif %}
+  #}
 
   </div>
 </li>
