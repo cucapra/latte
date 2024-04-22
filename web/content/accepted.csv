@@ -8,11 +8,11 @@ ID,Title,Authors,Session,virtual
 14,(Please Build) an Accelerator Zoo,"Katie Lim, Matthew Giordano (University of Washington); Jonathan Balkind (UC Santa Barbara)",Session 3,false
 18,Thriving with HDLs in the age of LLMs,"Mark Zakharov, Farzaneh Rabiei Kashanaki, Jose Renau (UC Santa Cruz)",Session 3,false
 13,"C + directives as intermediate representation for targeting hardware accelerators, but what about code restructuring?",João MP Cardoso (University of Porto),Session 3,true
-1,Rust as a Hardware Description Language,Samit Basu (None),Session 4,false
-4,Latency Counting in the SUS Language,"Lennart Van Hirtum, Prof. Dr. Christian Plessl (PC2 at Universität Paderborn)",Session 4,false
-6,"ROHD-HCL: Configurable, Reusable Hardware Components","Max Korbel, Desmond Kirkpatrick, Yao Jing Quek (Intel Corporation)",Session 4,true
+1,Rust as a Hardware Description Language,Samit Basu (None),Session 6,false
+4,Latency Counting in the SUS Language,"Lennart Van Hirtum, Prof. Dr. Christian Plessl (PC2 at Universität Paderborn)",Session 6,false
+6,"ROHD-HCL: Configurable, Reusable Hardware Components","Max Korbel, Desmond Kirkpatrick, Yao Jing Quek (Intel Corporation)",Session 6,true
 5,How I Learned to Stop Worrying and Love Physical Design,"Edward Wang, Luca Daniel (Massachusetts Institute of Technology); Yoni Zohar (Bar-Ilan University); Clark Barrett (Stanford University)",Session 5,false
 8,There and Back Again: A Netlist's Tale with Much Egraphin',"Gus Henry Smith (University of Washington); Zachary D. Sisco, Thanawat Techaumnuaiwit, Jingtao Xia (University of California, Santa Barbara); Vishal Canumalla, Andrew Cheung, Zachary Tatlock (University of Washington); Chandrakana Nandi (Certora, Inc.); Jonathan Balkind (University of California, Santa Barbara)",Session 5,false
 7,The ESI System Construction Compiler in 2024,John Demme (Microsoft),Session 5,false
-3,Pengwing: A Novel Blended OS to Re-Imagine How We Build Systems,"Nazerke Turtayeva (UC Santa Barbara); Guillem López-Paradís (BSC & UPC); Katie Lim (University of Washington); Brian Li (UC Santa Barbara); Joan Farrés (Universitat Politècnica de Catalunya); Tianrui Wei (UC Berkeley); Zechen Ma, Minh Bui, Michael Kong, Torin Schlunk, Michael Cheng, Jonathan Balkind (UC Santa Barbara)",Session 6,false
-16,A Case for In-situ Hardware Development,"Alborz Jelvani, Richard P. Martin, Santosh Nagarakatte (Rutgers University)",Session 6,false
+3,Pengwing: A Novel Blended OS to Re-Imagine How We Build Systems,"Nazerke Turtayeva (UC Santa Barbara); Guillem López-Paradís (BSC & UPC); Katie Lim (University of Washington); Brian Li (UC Santa Barbara); Joan Farrés (Universitat Politècnica de Catalunya); Tianrui Wei (UC Berkeley); Zechen Ma, Minh Bui, Michael Kong, Torin Schlunk, Michael Cheng, Jonathan Balkind (UC Santa Barbara)",Session 4,false
+16,A Case for In-situ Hardware Development,"Alborz Jelvani, Richard P. Martin, Santosh Nagarakatte (Rutgers University)",Session 4,false

@@ -33,12 +33,12 @@ Each session will have 6 minutes of shared discussion time directed toward all t
 
 | Time (Pacific) | Event |
 |----------------|-------|
-| 8:30–9:30am | [Keynote: Tatiana Shpeisman](#keynote) |
-| 9:30–10am | [Session 4](#session-4): HDLs |
+| 8:45–9:45am | [Keynote: Tatiana Shpeisman](#keynote) |
+| 9:45–10:05am | [Session 4](#session-4): Systems |
 | 10–10:30am | Break |
 | 10:30–11am | [Session 5](#session-5): The Toolchain |
-| 11–11:20am | [Session 6](#session-6): Systems |
-| 11:20-noon | Discussion: Building a Community |
+| 11–11:30am | [Session 6](#session-6): HDLs |
+| 11:30-noon | Discussion: Building a Community |
 
 ## Talk Sessions
 
