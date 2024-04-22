@@ -28,6 +28,7 @@ Each session will have 6 minutes of shared discussion time directed toward all t
 | 10:30–11am | [Session 1](#session-1): Processors and SoCs |
 | 11–11:30am | [Session 2](#session-2): Reconfigurable Architectures |
 | 11:30–noon | [Session 3](#session-3): Opinions and Directions |
+| noon–1pm | Lunch Discussion |
 
 ### Sunday, April 28
 
@@ -39,6 +40,7 @@ Each session will have 6 minutes of shared discussion time directed toward all t
 | 10:30–11am | [Session 5](#session-5): The Toolchain |
 | 11–11:30am | [Session 6](#session-6): HDLs |
 | 11:30-noon | Discussion: Building a Community |
+| noon–1pm | Lunch Discussion |
 
 ## Talk Sessions
 
