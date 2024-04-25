@@ -66,9 +66,11 @@ In this talk, we will describe Mojo - a new programming language designed to all
 
 ## Invited Talk
 
-We will host an overview talk by [Vighnesh Iyer][vighnesh] and [Joonho Whangbo][joonho] of UC Berkeley on Saturday!
+We will host an overview talk and demo by [Vighnesh Iyer][vighnesh] and [Joonho Whangbo][joonho] of UC Berkeley on Saturday!
 
----
+**The Next Paradigm of Hardware Design: Chipyard Overview and Calyx Integration Demo**
+
+[Vighnesh Iyer][vighnesh] & [Joonho Whangbo][joonho], UC Berkeley
 
 Agile hardware design methodologies enable small teams to build complex SoCs by rethinking the existing hardware design paradigm, which requires hundreds, if not thousands of engineers to build SoCs.
 
