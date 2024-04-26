@@ -1,17 +1,17 @@
-ID,Title,Authors,Session,virtual
-12,PipeGen: Automatically Transforming a Single-Core Pipeline into a Multi-core Pipeline Enforcing a given Memory Mode,An Qi Zhang (University of Utah); Andres Goens (University of Amsterdam); Nicolai Oswald (NVIDIA Research); Tobias Grosser (University of Cambridge); Daniel Sorin (Duke University); Vijay Nagarajan (University of Utah),Session 1,false
-9,Non-Newtonian Accelerators: Low-Compromise Design for Fault Tolerant Accelerators,"Guy Wilks, Brian Li, Jonathan Balkind (UC Santa Barbara)",Session 1,false
-10,Multi-Target DSL and MLIR Dialect for Streaming SIMD,"Manuel Cerqueira da Silva (INESC TEC); Luís Crespo, Nuno Neves (INESC-ID / IST ULisboa); Nuno Paulino (INESC TEC); João Bispo (Faculty of Engineering, University of Porto)",Session 1,true
-2,Lake: An Agile Framework for Designing and Automatically Configuring Physical Unified Buffers,"Maxwell Strange, Kavya Sreedhar, Mark Horowitz (Stanford University)",Session 2,false
-17,SHADE: A Software and Hardware Co-design Infrastructure for EDDO Architectures,"Jingqun Zhang, Devin Pohl (Georgia Tech); Prasanth Chatarasi (IBM Research); Jun Shirako, Vivek Sarkar, Cong Hao (Georgia Tech)",Session 2,false
-11,Cascade: An Application Pipelining Toolkit for Coarse-Grained Reconfigurable Arrays,"Jackson Melchert, Yuchen Mei, Kalhan Koul, Qiaoyi Liu, Mark Horowitz, Priyanka Raina (Stanford University)",Session 2,false
-14,(Please Build) an Accelerator Zoo,"Katie Lim, Matthew Giordano (University of Washington); Jonathan Balkind (UC Santa Barbara)",Session 3,false
-18,Thriving with HDLs in the age of LLMs,"Mark Zakharov, Farzaneh Rabiei Kashanaki, Jose Renau (UC Santa Cruz)",Session 3,false
-1,Rust as a Hardware Description Language,Samit Basu (unaffiliated),Session 6,false
-4,Latency Counting in the SUS Language,"Lennart Van Hirtum, Prof. Dr. Christian Plessl (PC2 at Universität Paderborn)",Session 6,false
-6,"ROHD-HCL: Configurable, Reusable Hardware Components","Max Korbel, Desmond Kirkpatrick, Yao Jing Quek (Intel Corporation)",Session 6,true
-5,How I Learned to Stop Worrying and Love Physical Design,"Edward Wang, Luca Daniel (Massachusetts Institute of Technology); Yoni Zohar (Bar-Ilan University); Clark Barrett (Stanford University)",Session 5,false
-8,There and Back Again: A Netlist's Tale with Much Egraphin',"Gus Henry Smith (University of Washington); Zachary D. Sisco, Thanawat Techaumnuaiwit, Jingtao Xia (University of California, Santa Barbara); Vishal Canumalla, Andrew Cheung, Zachary Tatlock (University of Washington); Chandrakana Nandi (Certora, Inc.); Jonathan Balkind (University of California, Santa Barbara)",Session 5,false
-7,The ESI System Construction Compiler in 2024,John Demme (Microsoft),Session 5,false
-3,Pengwing: A Novel Blended OS to Re-Imagine How We Build Systems,"Nazerke Turtayeva (UC Santa Barbara); Guillem López-Paradís (BSC & UPC); Katie Lim (University of Washington); Brian Li (UC Santa Barbara); Joan Farrés (Universitat Politècnica de Catalunya); Tianrui Wei (UC Berkeley); Zechen Ma, Minh Bui, Michael Kong, Torin Schlunk, Michael Cheng, Jonathan Balkind (UC Santa Barbara)",Session 4,false
-16,A Case for In-situ Hardware Development,"Alborz Jelvani, Richard P. Martin, Santosh Nagarakatte (Rutgers University)",Session 4,false
+ID,Title,Authors,Session,virtual,video
+12,PipeGen: Automatically Transforming a Single-Core Pipeline into a Multi-core Pipeline Enforcing a given Memory Mode,An Qi Zhang (University of Utah); Andres Goens (University of Amsterdam); Nicolai Oswald (NVIDIA Research); Tobias Grosser (University of Cambridge); Daniel Sorin (Duke University); Vijay Nagarajan (University of Utah),Session 1,false,
+9,Non-Newtonian Accelerators: Low-Compromise Design for Fault Tolerant Accelerators,"Guy Wilks, Brian Li, Jonathan Balkind (UC Santa Barbara)",Session 1,false,
+10,Multi-Target DSL and MLIR Dialect for Streaming SIMD,"Manuel Cerqueira da Silva (INESC TEC); Luís Crespo, Nuno Neves (INESC-ID / IST ULisboa); Nuno Paulino (INESC TEC); João Bispo (Faculty of Engineering, University of Porto)",Session 1,true,https://www.youtube.com/watch?v=5S5j5Z7V9DE
+2,Lake: An Agile Framework for Designing and Automatically Configuring Physical Unified Buffers,"Maxwell Strange, Kavya Sreedhar, Mark Horowitz (Stanford University)",Session 2,false,
+17,SHADE: A Software and Hardware Co-design Infrastructure for EDDO Architectures,"Jingqun Zhang, Devin Pohl (Georgia Tech); Prasanth Chatarasi (IBM Research); Jun Shirako, Vivek Sarkar, Cong Hao (Georgia Tech)",Session 2,false,
+11,Cascade: An Application Pipelining Toolkit for Coarse-Grained Reconfigurable Arrays,"Jackson Melchert, Yuchen Mei, Kalhan Koul, Qiaoyi Liu, Mark Horowitz, Priyanka Raina (Stanford University)",Session 2,false,https://youtu.be/mHkCQH6vwRw
+14,(Please Build) an Accelerator Zoo,"Katie Lim, Matthew Giordano (University of Washington); Jonathan Balkind (UC Santa Barbara)",Session 3,false,
+18,Thriving with HDLs in the age of LLMs,"Mark Zakharov, Farzaneh Rabiei Kashanaki, Jose Renau (UC Santa Cruz)",Session 3,false,
+1,Rust as a Hardware Description Language,Samit Basu (unaffiliated),Session 6,false,https://youtu.be/9Yd02ovpNHo
+4,Latency Counting in the SUS Language,"Lennart Van Hirtum, Prof. Dr. Christian Plessl (PC2 at Universität Paderborn)",Session 6,false,https://youtu.be/7P0BvXSHLpY
+6,"ROHD-HCL: Configurable, Reusable Hardware Components","Max Korbel, Desmond Kirkpatrick, Yao Jing Quek (Intel Corporation)",Session 6,true,
+5,How I Learned to Stop Worrying and Love Physical Design,"Edward Wang, Luca Daniel (Massachusetts Institute of Technology); Yoni Zohar (Bar-Ilan University); Clark Barrett (Stanford University)",Session 5,false,
+8,There and Back Again: A Netlist's Tale with Much Egraphin',"Gus Henry Smith (University of Washington); Zachary D. Sisco, Thanawat Techaumnuaiwit, Jingtao Xia (University of California, Santa Barbara); Vishal Canumalla, Andrew Cheung, Zachary Tatlock (University of Washington); Chandrakana Nandi (Certora, Inc.); Jonathan Balkind (University of California, Santa Barbara)",Session 5,false,
+7,The ESI System Construction Compiler in 2024,John Demme (Microsoft),Session 5,false,
+3,Pengwing: A Novel Blended OS to Re-Imagine How We Build Systems,"Nazerke Turtayeva (UC Santa Barbara); Guillem López-Paradís (BSC & UPC); Katie Lim (University of Washington); Brian Li (UC Santa Barbara); Joan Farrés (Universitat Politècnica de Catalunya); Tianrui Wei (UC Berkeley); Zechen Ma, Minh Bui, Michael Kong, Torin Schlunk, Michael Cheng, Jonathan Balkind (UC Santa Barbara)",Session 4,false,
+16,A Case for In-situ Hardware Development,"Alborz Jelvani, Richard P. Martin, Santosh Nagarakatte (Rutgers University)",Session 4,false,https://www.youtube.com/watch?v=1x-Bmp8RtVU
