@@ -7,7 +7,6 @@ ID,Title,Authors,Session,virtual
 11,Cascade: An Application Pipelining Toolkit for Coarse-Grained Reconfigurable Arrays,"Jackson Melchert, Yuchen Mei, Kalhan Koul, Qiaoyi Liu, Mark Horowitz, Priyanka Raina (Stanford University)",Session 2,false
 14,(Please Build) an Accelerator Zoo,"Katie Lim, Matthew Giordano (University of Washington); Jonathan Balkind (UC Santa Barbara)",Session 3,false
 18,Thriving with HDLs in the age of LLMs,"Mark Zakharov, Farzaneh Rabiei Kashanaki, Jose Renau (UC Santa Cruz)",Session 3,false
-13,"C + directives as intermediate representation for targeting hardware accelerators, but what about code restructuring?",João MP Cardoso (University of Porto),Session 3,true
 1,Rust as a Hardware Description Language,Samit Basu (None),Session 6,false
 4,Latency Counting in the SUS Language,"Lennart Van Hirtum, Prof. Dr. Christian Plessl (PC2 at Universität Paderborn)",Session 6,false
 6,"ROHD-HCL: Configurable, Reusable Hardware Components","Max Korbel, Desmond Kirkpatrick, Yao Jing Quek (Intel Corporation)",Session 6,true

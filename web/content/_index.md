@@ -27,7 +27,7 @@ Each session will have 6 minutes of shared discussion time directed toward all t
 | 10–10:30am | Break |
 | 10:30–11am | [Session 1](#session-1): Processors and SoCs |
 | 11–11:30am | [Session 2](#session-2): Reconfigurable Architectures |
-| 11:30–noon | [Session 3](#session-3): Opinions and Directions |
+| 11:30–11:50am | [Session 3](#session-3): Opinions and Directions |
 | noon–1pm | Lunch Discussion |
 
 ### Sunday, April 28
