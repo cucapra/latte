@@ -61,6 +61,10 @@ Modern computer applications, such as Generative AI, are inherently complex, req
 
 In this talk, we will describe Mojo - a new programming language designed to alleviate complexity of AI and other complex systems programming. Mojo combines programmability of Python with performance of C, delivering multiple orders of magnitude performance improvements over Python. It also supports multiple hardware targets, which is a must for modern AI programming. We will describe the philosophy behind Mojo design and give an overview of Mojo features and capabilities including support for heterogeneous execution. We will illustrate the power of Mojo by its application to Modular’s MAX platform that uses Mojo for both internal development and custom extensions.
 
+---
+
+[Tatiana Shpeisman][tatiana] is a founding team member and senior technologist at Modular where she works on building the next generation programming infrastructure for AI.  Before joining Modular, she was Sr. Engineering Manager at Google and Director of Programming Systems Research at Intel. Tatiana has dedicated her professional career to building technologies that improve performance and programmability of software systems including work on Mojo, MLIR, AI compute and transactional memory. Tatiana has >40 peer reviewed research papers and >60 issued patents.
+
 [tatiana]: https://www.modular.com/team/tatiana-shpeisman
 [modular]: https://www.modular.com
 
