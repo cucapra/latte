@@ -10,9 +10,9 @@ LATTE is a hybrid workshop; please consider attending either in person (in San D
 * To attend in person, [register to attend ASPLOS workshops][asplos-reg].
 * To attend virtually, no conference registration is required. Please [sign up in this Zoom form][zoom] to receive a link to join.
 
-## Tentative Program
+## Program
 
-Here's a tentative schedule for the two days of the workshop.
+Here's tentative schedule for the two days of the workshop.
 All times are in San Diego time (US Pacific).
 
 Talks in the sessions are 7 minutes, each with 1 minute of short clarification questions.
