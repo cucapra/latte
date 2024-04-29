@@ -76,6 +76,10 @@ We will host an overview talk and demo by [Vighnesh Iyer][vighnesh] and [Joonho 
 
 [Vighnesh Iyer][vighnesh] & [Joonho Whangbo][joonho], UC Berkeley
 
+<span class="button">
+<a href="https://vighneshiyer.github.io/2024_04-latte-the_next_paradigm_of_hw_design.html#/2/0/2">Slides</a>
+</span>
+
 Agile hardware design methodologies enable small teams to build complex SoCs by rethinking the existing hardware design paradigm, which requires hundreds, if not thousands of engineers to build SoCs.
 
 In the first part of the talk, we will review Chipyard and FireSim which are tools that open up possibilities to agile hardware development by enabling rapid SoC designs and simulation.
