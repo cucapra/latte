@@ -3,6 +3,13 @@
 
 LATTE is a venue for discussion, debate, and brainstorming at the intersection of hardware acceleration and programming languages research. The core mission is to bring ideas we love from software programming languages and tools to the world of hardware design. For more details on the workshop's focus, see [the call for papers][cfp].
 
+## LATTE Matrix Chat
+
+We have set up a matrix chat to keep the latte community in touch outside the
+main latte event. [Join it here][matrix]. Any vaguely latte-related discussion
+is encouraged! Showcase cool projects you built, discuss new ideas or problems
+you've run into, or just hang out with the community.
+
 ## Attending LATTE
 
 LATTE is a hybrid workshop; please consider attending either in person (in San Diego, co-located with [ASPLOS][]) or virtually (on Zoom). LATTE will be held in the mornings on April 27--28, 2024.
@@ -77,7 +84,7 @@ We will host an overview talk and demo by [Vighnesh Iyer][vighnesh] and [Joonho 
 [Vighnesh Iyer][vighnesh] & [Joonho Whangbo][joonho], UC Berkeley
 
 <span class="button">
-<a href="https://vighneshiyer.github.io/2024_04-latte-the_next_paradigm_of_hw_design.html#/2/0/2">Slides</a>
+<a href="https://vighneshiyer.github.io/2024_04-latte-the_next_paradigm_of_hw_design.html">Slides</a>
 </span>
 
 Agile hardware design methodologies enable small teams to build complex SoCs by rethinking the existing hardware design paradigm, which requires hundreds, if not thousands of engineers to build SoCs.
@@ -101,3 +108,4 @@ We will discuss the importance of a rapid iteration loop, ideas for mixed-abstra
 [asplos-reg]: https://www.asplos-conference.org/asplos2024/attend/#registration
 [zoom]: https://cornell.zoom.us/meeting/register/tJYlceCgpjkvEtcBL_b7hFWpbShI_Je4mSU8
 [hotcrp]: https://latte.cs.cornell.edu
+[matrix]: https://matrix.to/#/#latte-chat:fossi-foundation.org
