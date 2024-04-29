@@ -84,7 +84,7 @@ We will host an overview talk and demo by [Vighnesh Iyer][vighnesh] and [Joonho 
 [Vighnesh Iyer][vighnesh] & [Joonho Whangbo][joonho], UC Berkeley
 
 <span class="button">
-<a href="https://vighneshiyer.github.io/2024_04-latte-the_next_paradigm_of_hw_design.html#/2/0/2">Slides</a>
+<a href="https://vighneshiyer.github.io/2024_04-latte-the_next_paradigm_of_hw_design.html">Slides</a>
 </span>
 
 Agile hardware design methodologies enable small teams to build complex SoCs by rethinking the existing hardware design paradigm, which requires hundreds, if not thousands of engineers to build SoCs.
