@@ -1,0 +1,50 @@
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: taiki-e/install-action@v2
+        with:
+          tool: zola@0.19.2
+      - uses: actions/checkout@v4
+      - run: "make -C 2025"
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: www
+          path: 2025/web/public
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    if: ${{github.event_name=='push' && github.ref=='refs/heads/main'}}
+    steps:
+      - name: Tailscale
+        uses: tailscale/github-action@v2
+        with:
+          oauth-client-id: ${{ secrets.TS_OAUTH_CLIENT_ID }}
+          oauth-secret: ${{ secrets.TS_OAUTH_SECRET }}
+          tags: tag:ci
+      - name: Download artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: www
+          path: www
+      - name: rsync
+        env:
+          DEPLOY_HOST: courses.cit.cornell.edu
+          DEPLOY_USER: als485
+          DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
+          DEPLOY_KNOWN_HOSTS: ${{ secrets.DEPLOY_KNOWN_HOSTS }}
+          DEPLOY_SRC: ./www/
+          DEPLOY_DEST: coursewww/capra.cs.cornell.edu/htdocs/latte25
+        run: |
+          echo "$DEPLOY_KEY" > pk
+          echo "$DEPLOY_KNOWN_HOSTS" > kh
+          chmod 600 pk
+          rsync --compress --recursive --checksum --itemize-changes --delete \
+            --chmod=Du=rwx,Dgo=rx,Fu=rw,Fog=r --perms \
+            -e "ssh -i pk -o 'UserKnownHostsFile kh'" \
+            $DEPLOY_SRC $DEPLOY_USER@$DEPLOY_HOST:$DEPLOY_DEST
