@@ -7,8 +7,8 @@ title = "Call for Papers"
 Submit your **2-page position paper** via [HotCRP][].
 Important dates:
 
-- Paper submission: TK
-- Author Notification: TK
+- Paper submission: **January 31, 2025**
+- Author Notification: **February 14, 2025**
 - Workshop: **March 30, 2025**
 
 ### Overview
