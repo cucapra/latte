@@ -78,6 +78,15 @@ main latte event. [Join it here][matrix]. Any vaguely latte-related discussion
 is encouraged! Showcase cool projects you built, discuss new ideas or problems
 you've run into, or just hang out with the community.
 
+## Organizers
+
+LATTE's organizing team this year is:
+
+* [Rachit Nigam](https://rachit.pl), MIT & Jane Street
+* [Adrian Sampson](https://www.cs.cornell.edu/~asampson/), Cornell
+* [Frans Skarman](https://liu.se/en/employee/frask53), Linköping University
+* [Edward Wang](https://www.csail.mit.edu/person/edward-wang), MIT
+
 
 [hotcrp]: https://latte.cs.cornell.edu/
 [snapl]: http://cs.brown.edu/~sk/Memos/Conference-Discussion-Format/
