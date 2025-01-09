@@ -85,7 +85,7 @@ LATTE's organizing team this year is:
 * [Rachit Nigam](https://rachit.pl), MIT & Jane Street
 * [Adrian Sampson](https://www.cs.cornell.edu/~asampson/), Cornell
 * [Frans Skarman](https://liu.se/en/employee/frask53), Linköping University
-* [Edward Wang](https://www.csail.mit.edu/person/edward-wang), MIT
+* [Edward Wang](https://edwardw.compdigitec.com/), MIT
 
 
 [hotcrp]: https://latte.cs.cornell.edu/
