@@ -7,15 +7,6 @@ LATTE is a venue for discussion, debate, and brainstorming at the intersection o
 
 LATTE is a hybrid workshop; please consider attending either in person (in Rotterdam, co-located with [ASPLOS][]) or virtually (on Zoom). LATTE will be held on March 30.
 
-## Call for Papers
-
-Submit your **2-page position paper** via [HotCRP][hotcrp].
-Important dates:
-
-- Paper submission: **January 31, 2025**
-- Author Notification: **February 14, 2025**
-- Workshop: **March 30, 2025**
-
 ### Overview
 
 The world deserves better tools for designing custom hardware accelerators. We believe the world of programming languages research can help. New language designs, compiler optimizations, program analyses, type systems, testing frameworks, auxiliary engineering tools like debuggers and profilers: all these topics have deep research traditions in software, and they all have a role to play in making hardware design better.
@@ -41,30 +32,30 @@ LATTE solicits short position papers that need not fit the mold of a traditional
 - Demonstrations of real systems (to be shown off in a live demo at the workshop)
 - Overviews of open-source projects, even when the novelty with respect to proprietary alternatives is limited
 
-### Position Papers
+## Tentative Program
 
-The primary goal of the workshop is to enable discussion. It will accept **2-page position papers**.
-The workshop will allocate short time slots to the papers, each paired with a discussion following [SNAPL][]'s discussion format:
-“table discussion” where small breakout groups will discuss the paper, followed by plenary Q&A.
+Here's a tentative schedule for the workshop. All times are in Rotterdam time (Central European Summer Time).
 
-Position paper submissions will undergo peer review by a program committee of interdisciplinary experts working on both high-level (languages, compilers, drivers) and low-level (circuit optimization, interconnect design) problems in the area.
+|Time (CEST) | Event |
+|------------|-------|
+| 09:15-09:45 | Introductions and Overview|
+| 09:45-10:30 | [Session 1](#session-1) |
+| 10:30-11:00 | Break |
+| 11:00-11:30 | [Session 2](#session-2) |
+| 11:30-12:00 | [Session 3](#session-3) |
+| 12:00-12:30 | [Session 4](#session-4) |
+| 12:30-13:45 | Lunch |
+| 13:45-14:45 | Discussion |
+| 14:45-15:30 | [Session 5](#session-5) |
+| 15:30-16:00 | Break |
+| 16:00-16:45 | [Session 6](#session-6) |
+| 16:45-17:15 | Closing discussion |
 
-**Formatting.** Papers should use the two-column [the formatting guidelines for SIGPLAN conferences][sigplanconf] (the `acmart` format with the `sigplan` two-column option) and not exceed 2 pages, excluding references. Review is single-blind, so please include authors' names on the submitted PDF.
-We provide [a LaTeX example][format-example] that contains the correct formatting.
+> Europe switches to summer time on March 30, make sure to include the date when you convert to your local time zone!
 
-Paper submission will is via [HotCRP][hotcrp].
-The accepted papers will not be published in a proceeding—PDFs will instead appear on the workshop's website.
+## Talk Sessions
 
-**Important guidelines.**
-It's standard for papers to start with a general motivation: Moore's Law is doomed; specialized hardware is ascendant; Verilog is hard to use; etc.
-*Please skip this part* in your LATTE position paper (and in eventual talks at the workshop).
-The LATTE audience will already believe these things, so save the space & time and instead focus on your own unique ideas.
-As much as possible, dispose with the framing and motivation so you can focus on the technical content.
-
-Remember that the goal at LATTE is to stimulate discussion, not to disseminate fully polished results.
-So don't be afraid to write up half-baked ideas and in-progress work: it's OK if your submission has zero bar charts, for example.
-
-For examples of past position papers, consider looking at the programs for [LATTE ’24][latte-24], [’23][latte-23], [’22][latte-22], and [’21][latte-21].
+{{ program() }}
 
 ## Hybrid Format
 
