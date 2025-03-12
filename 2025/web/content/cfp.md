@@ -1,10 +1,15 @@
 +++
-title = "Call for Papers"
 +++
+
+LATTE is a venue for discussion, debate, and brainstorming at the intersection of hardware acceleration and programming languages research. The core mission is to bring ideas we love from software programming languages and tools to the world of hardware design. For more details on the workshop's focus, see [the call for papers][cfp].
+
+## The 2025 Workshop
+
+LATTE is a hybrid workshop; please consider attending either in person (in Rotterdam, co-located with [ASPLOS][]) or virtually (on Zoom). LATTE will be held on March 30.
 
 ## Call for Papers
 
-Submit your **2-page position paper** via [HotCRP][].
+Submit your **2-page position paper** via [HotCRP][hotcrp].
 Important dates:
 
 - Paper submission: **January 31, 2025**
@@ -47,7 +52,7 @@ Position paper submissions will undergo peer review by a program committee of in
 **Formatting.** Papers should use the two-column [the formatting guidelines for SIGPLAN conferences][sigplanconf] (the `acmart` format with the `sigplan` two-column option) and not exceed 2 pages, excluding references. Review is single-blind, so please include authors' names on the submitted PDF.
 We provide [a LaTeX example][format-example] that contains the correct formatting.
 
-Paper submission will is via [HotCRP][].
+Paper submission will is via [HotCRP][hotcrp].
 The accepted papers will not be published in a proceeding—PDFs will instead appear on the workshop's website.
 
 **Important guidelines.**
@@ -66,6 +71,14 @@ For examples of past position papers, consider looking at the programs for [LATT
 LATTE 2025 will run in a hybrid format, i.e., it will be possible to join either in person (in Rotterdam) or online (on Zoom).
 Talks at the workshop can use either modality, so please consider submitting even if you cannot attend in person.
 
+## LATTE Matrix Chat
+
+We have set up a matrix chat to keep the latte community in touch outside the
+main latte event. [Join it here][matrix]. Any vaguely latte-related discussion
+is encouraged! Showcase cool projects you built, discuss new ideas or problems
+you've run into, or just hang out with the community.
+
+
 [hotcrp]: https://latte.cs.cornell.edu/
 [snapl]: http://cs.brown.edu/~sk/Memos/Conference-Discussion-Format/
 [sigplanconf]: https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart.pdf
@@ -74,3 +87,7 @@ Talks at the workshop can use either modality, so please consider submitting eve
 [latte-22]: https://capra.cs.cornell.edu/latte22/
 [latte-23]: https://capra.cs.cornell.edu/latte23/
 [latte-24]: https://capra.cs.cornell.edu/latte24/
+
+[cfp]: @/cfp.md
+[asplos]: https://www.asplos-conference.org/asplos2025/
+[matrix]: https://matrix.to/#/#latte-chat:fossi-foundation.org
