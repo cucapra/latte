@@ -3,9 +3,15 @@
 
 LATTE is a venue for discussion, debate, and brainstorming at the intersection of hardware acceleration and programming languages research. The core mission is to bring ideas we love from software programming languages and tools to the world of hardware design. For more details on the workshop's focus, see [the call for papers][cfp].
 
-## The 2025 Workshop
+## Attending LATTE
 
 LATTE is a hybrid workshop; please consider attending either in person (in Rotterdam, co-located with [ASPLOS][]) or virtually (on Zoom). LATTE will be held on March 30.
+
+* To attend in person, [register to attend ASPLOS workshops][asplos-reg].
+* To attend virtually, no conference registration is required. Please [sign up using this Zoom form][zoom] to receive a link to join.
+
+[asplos-reg]: https://www.asplos-conference.org/asplos2025/registration/
+[zoom]: https://cornell.zoom.us/meeting/register/UfYN6ksoTLSbmm7gO1ApOA
 
 ### Overview
 
