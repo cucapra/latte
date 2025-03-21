@@ -25,7 +25,9 @@ We'll also use this for real-time communication during the workshop.
 
 Here's a tentative schedule for the workshop. All times are in Rotterdam time (Central European Summer Time).
 
-> Europe switches to summer time on March 30. Make sure to include the date when you convert to your local time zone!
+> Europe switches to summer time on March 30. Make sure to include the date when you [convert to your local time zone][tz]!
+
+[tz]: https://everytimezone.com/s/03531c7a
 
 |Time (CEST) | Event |
 |------------|-------|
