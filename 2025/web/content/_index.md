@@ -44,17 +44,17 @@ Here's a tentative schedule for the workshop. All times are in Rotterdam time (C
 
 |Time (CEST) | Event |
 |------------|-------|
-| 09:15-09:45 | Introductions and Overview|
-| 09:45-10:30 | [Session 1](#session-1) |
+| 09:15-09:45 | Introductions and Overview |
+| 09:45-10:30 | [Session 1](#session-1): Verification |
 | 10:30-11:00 | Break |
-| 11:00-11:30 | [Session 2](#session-2) |
-| 11:30-12:00 | [Session 3](#session-3) |
-| 12:00-12:30 | [Session 4](#session-4) |
+| 11:00-11:30 | [Session 2](#session-2): HDLs 1 |
+| 11:30-12:00 | [Session 3](#session-3): HLS |
+| 12:00-12:30 | [Session 4](#session-4): SoCs |
 | 12:30-13:45 | Lunch |
 | 13:45-14:45 | Discussion |
-| 14:45-15:30 | [Session 5](#session-5) |
+| 14:45-15:30 | [Session 5](#session-5): HDLs 2 |
 | 15:30-16:00 | Break |
-| 16:00-16:45 | [Session 6](#session-6) |
+| 16:00-16:45 | [Session 6](#session-6): Platforms |
 | 16:45-17:15 | Closing discussion |
 
 > Europe switches to summer time on March 30, make sure to include the date when you convert to your local time zone!
