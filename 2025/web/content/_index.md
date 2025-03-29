@@ -23,7 +23,9 @@ We'll also use this for real-time communication during the workshop.
 
 ## Program
 
-Here's a tentative schedule for the workshop. All times are in Rotterdam time (Central European Summer Time).
+Here's the schedule for the workshop.
+All times are in Rotterdam time (Central European Summer Time).
+Our room within the conference venue is the J.F. Staalroom.
 
 > Europe switches to summer time on March 30. Make sure to include the date when you [convert to your local time zone][tz]!
 
