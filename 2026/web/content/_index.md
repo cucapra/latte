@@ -78,7 +78,7 @@ So don't be afraid to write up half-baked ideas and in-progress work: it's OK if
 
 For examples of past position papers, consider looking at the programs for [LATTE ’25][latte-25] [LATTE ’24][latte-24], [’23][latte-23], [’22][latte-22], and [’21][latte-21].
 
-**NOTE**: Using an LLM to fully generate your paper is ground for desk rejection. Using an LLM for stylistic edits is fine, but keep in mind that we want to hear your ideas expressed by you, not by the LLM.
+**NOTE**: Using an LLM to fully generate your paper is grounds for desk rejection. Using an LLM for stylistic edits is fine, but keep in mind that we want to hear your ideas expressed by you, not by the LLM.
 
 We are also not interested in LLM-focused research. LATTE is a venue for discussing languages and tools by humans and for humans.
 
