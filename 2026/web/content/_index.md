@@ -54,6 +54,7 @@ In order to make sure that papers are aligned with the topics of the workshop, t
 - Hardware design tools MUST change
 - Verification REMAINS the key challenge
 - The tools we build NEED to interoperate with each other to be successful
+- A *clearly and concisely articulated* theme of your own choosing. Apply the following tests when creating a theme: (1) does it apply more broadly than just your paper, and (2) can it be articulated with a short sentence.
 
 For example, papers presenting a new tool or language are still encouraged, but rather than just presenting your new tool, try to make it fit with the themes by arguing that "Hardware description languages must change to address X,  that is why Y does Z".
 
@@ -80,7 +81,7 @@ For examples of past position papers, consider looking at the programs for [LATT
 
 **NOTE**: Using an LLM to fully generate your paper is ground for desk rejection. Using an LLM for small edits is fine, but keep in mind that we want to hear your ideas a phrased by you, not by the LLM.
 
-We are also not interested in LLM-focused research. LATTE is a venue for discussing languages and tools by and for humans.
+We are also not interested in LLM-focused research. LATTE is a venue for discussing languages and tools by humans and for humans.
 
 ## Hybrid Format
 
