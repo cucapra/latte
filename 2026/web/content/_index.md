@@ -54,11 +54,10 @@ In order to make sure that papers are aligned with the topics of the workshop, t
 - Hardware design tools MUST change
 - Verification REMAINS the key challenge
 - The tools we build NEED to interoperate with each other to be successful
-- A *clearly and concisely articulated* theme of your own choosing. Apply the following tests when creating a theme: (1) does it apply more broadly than just your paper, and (2) can it be articulated with a short sentence.
 
 For example, papers presenting a new tool or language are still encouraged, but rather than just presenting your new tool, try to make it fit with the themes by arguing that "Hardware description languages must change to address X,  that is why Y does Z".
 
-In addition, we are looking for papers that propse new "themes" like these. The idea is to highlight key questions that we as a community should try to address. These papers will be given more time for deeper discussion during the workshop, and as such will be held to a higher standard than normal papers.
+In addition, we are looking for papers that propose new themes like these. These should focus on a *clearly and concisely articulated* theme of your own choosing. The goal of these papers should be to spark discussions at the workshop and in the community, and these swill be given more time for deeper discussion at the event. Apply the following tests when creating a theme: (1) does it apply more broadly than just your paper, and (2) can it be articulated with a short sentence.
 
 Position paper submissions will undergo peer review by a program committee of interdisciplinary experts working on both high-level (languages, compilers, drivers) and low-level (circuit optimization, interconnect design) problems in the area.
 
@@ -132,7 +131,7 @@ We'll also use this for real-time communication during the workshop.
 
 LATTE's organizing team this year is:
 
-* [Rachit Nigam](https://rachit.pl), MIT & Jane Street
+* [Rachit Nigam](https://rachit.pl), MIT
 * [Adrian Sampson](https://www.cs.cornell.edu/~asampson/), Cornell
 * [Frans Skarman](https://liu.se/en/employee/frask53), Munich University of Applied Sciences
 * [Edward Wang](https://edwardw.compdigitec.com/), MIT
