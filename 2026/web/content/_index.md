@@ -3,11 +3,11 @@
 
 LATTE is a venue for discussion, debate, and brainstorming at the intersection of hardware acceleration and programming languages research. The core mission is to bring ideas we love from software programming languages and tools to the world of hardware design.
 
-LATTE is a venue for discussion, debate, and brainstorming at the intersection of hardware acceleration and programming languages research. The core mission is to bring ideas we love from software programming languages and tools to the world of hardware design. For more details on the workshop's focus, see [the call for papers][cfp].
+LATTE is a venue for discussion, debate, and brainstorming at the intersection of hardware acceleration and programming languages research. The core mission is to bring ideas we love from software programming languages and tools to the world of hardware design.
 
 ## The 2026 Workshop
 
-LATTE is a hybrid workshop; please consider attending either in person (in Rotterdam, co-located with [ASPLOS][]) or virtually (on Zoom). LATTE will be held on March 30.
+LATTE is a hybrid workshop; please consider attending either in person (in Pittsburgh, co-located with [ASPLOS][]) or virtually (on Zoom). LATTE will be held on March 30.
 
 ## Call for Papers
 
@@ -57,7 +57,7 @@ In order to make sure that papers are aligned with the topics of the workshop, t
 
 For example, papers presenting a new tool or language are still encouraged, but rather than just presenting your new tool, try to make it fit with the themes by arguing that "Hardware description languages must change to address X,  that is why Y does Z".
 
-In addition, we are looking for papers that propose new themes like these. These should focus on a *clearly and concisely articulated* theme of your own choosing. The goal of these papers should be to spark discussions at the workshop and in the community, and these swill be given more time for deeper discussion at the event. Apply the following tests when creating a theme: (1) does it apply more broadly than just your paper, and (2) can it be articulated with a short sentence.
+In addition, we are looking for papers that propose new themes like these. These should be centered on a *clearly and concisely articulated* theme of your own choosing. The goal of these papers should be to spark discussions at the workshop, and they swill be given more time for deeper discussion at the event. Apply the following tests when creating a theme: (1) does it apply more broadly than just your paper, and (2) can it be articulated with a short sentence.
 
 Position paper submissions will undergo peer review by a program committee of interdisciplinary experts working on both high-level (languages, compilers, drivers) and low-level (circuit optimization, interconnect design) problems in the area.
 
@@ -78,13 +78,13 @@ So don't be afraid to write up half-baked ideas and in-progress work: it's OK if
 
 For examples of past position papers, consider looking at the programs for [LATTE ’25][latte-25] [LATTE ’24][latte-24], [’23][latte-23], [’22][latte-22], and [’21][latte-21].
 
-**NOTE**: Using an LLM to fully generate your paper is ground for desk rejection. Using an LLM for small edits is fine, but keep in mind that we want to hear your ideas a phrased by you, not by the LLM.
+**NOTE**: Using an LLM to fully generate your paper is ground for desk rejection. Using an LLM for stylistic edits is fine, but keep in mind that we want to hear your ideas expressed by you, not by the LLM.
 
 We are also not interested in LLM-focused research. LATTE is a venue for discussing languages and tools by humans and for humans.
 
 ## Hybrid Format
 
-LATTE 2026 will run in a hybrid format, i.e., it will be possible to join either in person (in Rotterdam) or online (on Zoom).
+LATTE 2026 will run in a hybrid format, i.e., it will be possible to join either in person (in Pittsburgh) or online (on Zoom).
 Talks at the workshop can use either modality, so please consider submitting even if you cannot attend in person.
 
 ## LATTE Matrix Chat
@@ -133,7 +133,7 @@ LATTE's organizing team this year is:
 
 * [Rachit Nigam](https://rachit.pl), MIT
 * [Adrian Sampson](https://www.cs.cornell.edu/~asampson/), Cornell
-* [Frans Skarman](https://liu.se/en/employee/frask53), Munich University of Applied Sciences
+* [Frans Skarman](https://cs.hm.edu/kontakte_de/phonebook_detailseite_106580.de.html), Munich University of Applied Sciences
 * [Edward Wang](https://edwardw.compdigitec.com/), MIT
 
 [hotcrp]: https://latte.cs.cornell.edu/
