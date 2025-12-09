@@ -8,21 +8,21 @@ jobs:
     steps:
       - uses: taiki-e/install-action@v2
         with:
-          tool: zola@0.19.2
+          tool: zola@0.21.0
       - uses: actions/checkout@v4
-      - run: "make -C 2025"
+      - run: "make -C 2026"
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: www
-          path: 2025/web/public
+          path: 2026/web/public
   deploy:
     needs: build
     runs-on: ubuntu-latest
     if: ${{github.event_name=='push' && github.ref=='refs/heads/main'}}
     steps:
       - name: Tailscale
-        uses: tailscale/github-action@v2
+        uses: tailscale/github-action@v4
         with:
           oauth-client-id: ${{ secrets.TS_OAUTH_CLIENT_ID }}
           oauth-secret: ${{ secrets.TS_OAUTH_SECRET }}
@@ -39,7 +39,7 @@ jobs:
           DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
           DEPLOY_KNOWN_HOSTS: ${{ secrets.DEPLOY_KNOWN_HOSTS }}
           DEPLOY_SRC: ./www/
-          DEPLOY_DEST: coursewww/capra.cs.cornell.edu/htdocs/latte25
+          DEPLOY_DEST: coursewww/capra.cs.cornell.edu/htdocs/latte26
         run: |
           echo "$DEPLOY_KEY" > pk
           echo "$DEPLOY_KNOWN_HOSTS" > kh
