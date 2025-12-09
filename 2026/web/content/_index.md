@@ -5,7 +5,8 @@ LATTE is a venue for discussion, debate, and brainstorming at the intersection o
 
 ## The 2026 Workshop
 
-LATTE 2026 will run in a hybrid format, i.e., it will be possible to join either in person (in Pittsburgh) or online (on Zoom).
+LATTE will be co-located with [ASPLOS][] 2026.
+It will run in a hybrid format, i.e., it will be possible to join either in person (in Pittsburgh) or online (on Zoom).
 Talks at the workshop can use either modality, so please consider submitting even if you cannot attend in person.
 
 ## LATTE Matrix Chat
