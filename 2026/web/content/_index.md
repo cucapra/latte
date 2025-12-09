@@ -3,11 +3,17 @@
 
 LATTE is a venue for discussion, debate, and brainstorming at the intersection of hardware acceleration and programming languages research. The core mission is to bring ideas we love from software programming languages and tools to the world of hardware design.
 
-LATTE is a venue for discussion, debate, and brainstorming at the intersection of hardware acceleration and programming languages research. The core mission is to bring ideas we love from software programming languages and tools to the world of hardware design.
-
 ## The 2026 Workshop
 
-LATTE is a hybrid workshop; please consider attending either in person (in Pittsburgh, co-located with [ASPLOS][]) or virtually (on Zoom). LATTE will be held on March 30.
+LATTE 2026 will run in a hybrid format, i.e., it will be possible to join either in person (in Pittsburgh) or online (on Zoom).
+Talks at the workshop can use either modality, so please consider submitting even if you cannot attend in person.
+
+## LATTE Matrix Chat
+
+We have set up a matrix chat to keep the latte community in touch outside the
+main latte event. [Join it here][matrix]. Any vaguely LATTE-related discussion
+is encouraged! Showcase cool projects you built, discuss new ideas or problems
+you've run into, or just hang out with the community.
 
 ## Call for Papers
 
@@ -78,54 +84,11 @@ So don't be afraid to write up half-baked ideas and in-progress work: it's OK if
 
 For examples of past position papers, consider looking at the programs for [LATTE ’25][latte-25] [LATTE ’24][latte-24], [’23][latte-23], [’22][latte-22], and [’21][latte-21].
 
-**NOTE**: Using an LLM to fully generate your paper is grounds for desk rejection. Using an LLM for stylistic edits is fine, but keep in mind that we want to hear your ideas expressed by you, not by the LLM.
+**Generative AI policy.**
+Using an LLM to fully generate your paper is grounds for desk rejection. Using an LLM for stylistic edits is fine, but keep in mind that we want to hear your ideas expressed by you, not by the LLM.
 
 We are also not interested in LLM-focused research. LATTE is a venue for discussing languages and tools by humans and for humans.
 
-## Hybrid Format
-
-LATTE 2026 will run in a hybrid format, i.e., it will be possible to join either in person (in Pittsburgh) or online (on Zoom).
-Talks at the workshop can use either modality, so please consider submitting even if you cannot attend in person.
-
-## LATTE Matrix Chat
-
-We have set up a matrix chat to keep the latte community in touch outside the
-main latte event. [Join it here][matrix]. Any vaguely latte-related discussion
-is encouraged! Showcase cool projects you built, discuss new ideas or problems
-you've run into, or just hang out with the community.
-
-
-[hotcrp]: https://latte.cs.cornell.edu/
-[snapl]: http://cs.brown.edu/~sk/Memos/Conference-Discussion-Format/
-[sigplanconf]: https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart.pdf
-[format-example]: https://github.com/cucapra/latte23/tree/main/camera-ready
-[latte-21]: https://capra.cs.cornell.edu/latte21/
-[latte-22]: https://capra.cs.cornell.edu/latte22/
-[latte-23]: https://capra.cs.cornell.edu/latte23/
-[latte-24]: https://capra.cs.cornell.edu/latte24/
-
-[cfp]: @/cfp.md
-[asplos]: https://www.asplos-conference.org/asplos2026/
-[matrix]: https://matrix.to/#/#latte-chat:fossi-foundation.org
-
-
-## Attending LATTE
-
-LATTE is a hybrid workshop; please consider attending either in person (in Rotterdam, co-located with [ASPLOS][]) or virtually (on Zoom). LATTE will be held on March 30.
-
-* To attend in person, [register to attend ASPLOS workshops][asplos-reg].
-* To attend virtually, no conference registration is required. Please [sign up using this Zoom form][zoom] to receive a link to join.
-
-[asplos-reg]: https://www.asplos-conference.org/asplos2026/registration/
-[zoom]: https://cornell.zoom.us/meeting/register/UfYN6ksoTLSbmm7gO1ApOA
-
-## LATTE Matrix Chat
-
-We have set up a Matrix chat to keep the LATTE community in touch outside the
-main latte event. [Join it here.][matrix] Any vaguely LATTE-related discussion
-is encouraged! Showcase cool projects you built, discuss new ideas or problems
-you've run into, or just hang out with the community.
-We'll also use this for real-time communication during the workshop.
 
 ## Organizers
 
@@ -146,6 +109,5 @@ LATTE's organizing team this year is:
 [latte-24]: https://capra.cs.cornell.edu/latte24/
 [latte-25]: https://capra.cs.cornell.edu/latte25/
 
-[cfp]: @/cfp.md
 [asplos]: https://www.asplos-conference.org/asplos2026/
 [matrix]: https://matrix.to/#/#latte-chat:fossi-foundation.org
