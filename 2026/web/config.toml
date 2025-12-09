@@ -1,4 +1,4 @@
-base_url = "https://capra.cs.cornell.edu/latte25/"
+base_url = "https://capra.cs.cornell.edu/latte26/"
 compile_sass = false
 build_search_index = false
 
@@ -7,4 +7,4 @@ build_search_index = false
 internal_level = "warn"
 
 [extra]
-title = "LATTE ’25"
+title = "LATTE ’26"
