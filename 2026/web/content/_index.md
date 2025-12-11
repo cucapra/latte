@@ -22,8 +22,8 @@ Submit your **2-page position paper** via [HotCRP][hotcrp].
 Important dates:
 
 - Paper submission: **January 31, 2026**
-- Author Notification: **February 20, 2026**
-- Workshop: **March 22 or 23, 2026**
+- Author Notification: **February 17, 2026**
+- Workshop: **March 23, 2026**
 
 ### Overview
 
