@@ -19,8 +19,7 @@ For example, ACM's [policy on simultaneous submissions][simul] says:
 
 ## Temporary Removal
 
-Unfortunately, some reviewers do not follow the above policy.
-At least once, a misguided reviewer has penalized a full-paper submission for being too close to a LATTE paper about the same work.
+Unfortunately, some reviewers do not follow the above policy and might penalize a later full submission for being too close to a related LATTE paper.
 Reviewers who do this are confused about publication policies, but they do exist.
 
 Therefore, while we discourage it, we allow LATTE authors to request that we *temporarily* remove a LATTE paper from the website for a period of time.
