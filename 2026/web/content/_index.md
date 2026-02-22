@@ -10,7 +10,7 @@ LATTE is a hybrid workshop; please consider attending either in person (in Pitts
 * To attend in person, [register to attend ASPLOS workshops][asplos-reg].
 * To attend virtually, no conference registration is required. Please [sign up using this Zoom form][zoom] to receive a link to join.
 
-[asplos-reg]: https://www.asplos-conference.org/asplos2025/registration/
+[asplos-reg]: https://www.asplos-conference.org/asplos2026/registration/
 [zoom]: https://cornell.zoom.us/meeting/register/XsMlzkw7R9mHCbJldh-pVQ
 
 ## LATTE Matrix Chat
