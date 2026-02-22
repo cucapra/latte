@@ -1,95 +1,54 @@
 +++
 +++
 
-LATTE is a venue for discussion, debate, and brainstorming at the intersection of hardware acceleration and programming languages research. The core mission is to bring ideas we love from software programming languages and tools to the world of hardware design.
+LATTE is a venue for discussion, debate, and brainstorming at the intersection of hardware acceleration and programming languages research. The core mission is to bring ideas we love from software programming languages and tools to the world of hardware design. See the [call for papers][cfp] for more details.
 
-## The 2026 Workshop
+## Attending LATTE
 
-LATTE will be co-located with [ASPLOS][] 2026.
-It will run in a hybrid format, i.e., it will be possible to join either in person (in Pittsburgh) or online (on Zoom).
-Talks at the workshop can use either modality, so please consider submitting even if you cannot attend in person.
+LATTE is a hybrid workshop; please consider attending either in person (in Pittsburgh, co-located with [ASPLOS][]) or virtually (on Zoom). LATTE will be held on March 23, 2026.
+
+* To attend in person, [register to attend ASPLOS workshops][asplos-reg].
+* To attend virtually, no conference registration is required. Please [sign up using this Zoom form][zoom] to receive a link to join.
+
+[asplos-reg]: https://www.asplos-conference.org/asplos2026/registration/
+[zoom]: https://cornell.zoom.us/meeting/register/XsMlzkw7R9mHCbJldh-pVQ
 
 ## LATTE Matrix Chat
 
 We have set up a matrix chat to keep the latte community in touch outside the
-main latte event. [Join it here][matrix]. Any vaguely LATTE-related discussion
+main LATTE event. [Join it here][matrix]. Any vaguely LATTE-related discussion
 is encouraged! Showcase cool projects you built, discuss new ideas or problems
 you've run into, or just hang out with the community.
 
-## Call for Papers
+## Program
 
-Submit your **2-page position paper** via [HotCRP][hotcrp].
-Important dates:
+Check back soon for the workshop program!
+Meanwhile, here's a list of accepted papers:
 
-- Paper submission: **January 31, 2026**
-- Author Notification: **February 17, 2026**
-- Workshop: **March 23, 2026**
-
-### Overview
-
-The world deserves better tools for designing custom hardware accelerators. We believe the world of programming languages research can help. New language designs, compiler optimizations, program analyses, type systems, testing frameworks, auxiliary engineering tools like debuggers and profilers: all these topics have deep research traditions in software, and they all have a role to play in making hardware design better.
-
-LATTE is a venue for discussion, debate, and brainstorming at the intersection of hardware acceleration and programming languages research. The core mission is to bring ideas we love from software programming languages and tools to the world of hardware design.
-
-LATTE has a special focus on open-source research. We encourage work that comes with real, permissively licensed implementations.
-
-For LATTE, "hardware" includes ASICs, FPGAs, CGRAs, and other reconfigurable hardware. While the scope is broad, here are a few ideas to get you started:
-
-- Domain-specific languages for accelerator design
-- Compilers for optimizing hardware designs
-- Verification, testing, and debugging techniques
-- Virtualization schemes for specialized & reconfigurable hardware
-
-LATTE solicits short position papers that need not fit the mold of a traditional publication:
-
-- Early, in-progress research snapshots
-- Experience reports on building or deploying accelerators and the tools involved
-- Essays advocating for or against a general approach
-- Retrospectives on past efforts on tools, languages, and techniques for accelerator design
-- Calls for solutions to open challenges in the area (questions without answers)
-- Demonstrations of real systems (to be shown off in a live demo at the workshop)
-- Overviews of open-source projects, even when the novelty with respect to proprietary alternatives is limited
-
-### Position Papers
-
-The primary goal of the workshop is to enable discussion. It will accept **2-page position papers**.
-The workshop will allocate short time slots to the papers, each paired with a discussion following [SNAPL][]'s discussion format:
-“table discussion” where small breakout groups will discuss the paper, followed by plenary Q&A.
-
-In order to make sure that papers are aligned with the topics of the workshop, they should explicitly address one (or more!) of these themes
-
-- Hardware design tools MUST change
-- Verification REMAINS the key challenge
-- The tools we build NEED to interoperate with each other to be successful
-
-For example, papers presenting a new tool or language are still encouraged, but rather than just presenting your new tool, try to make it fit with the themes by arguing that "Hardware description languages must change to address X,  that is why Y does Z".
-
-In addition, we are looking for papers that propose new themes like these. These should be centered on a *clearly and concisely articulated* theme of your own choosing. The goal of these papers should be to spark discussions at the workshop, and they swill be given more time for deeper discussion at the event. Apply the following tests when creating a theme: (1) does it apply more broadly than just your paper, and (2) can it be articulated with a short sentence.
-
-Position paper submissions will undergo peer review by a program committee of interdisciplinary experts working on both high-level (languages, compilers, drivers) and low-level (circuit optimization, interconnect design) problems in the area.
-
-**Formatting.** Papers should use the two-column [the formatting guidelines for SIGPLAN conferences][sigplanconf] (the `acmart` format with the `sigplan` two-column option) and not exceed 2 pages, excluding references. Review is single-blind, so please include authors' names on the submitted PDF.
-We provide [a LaTeX example][format-example] that contains the correct formatting.
-
-Paper submission will is via [HotCRP][hotcrp].
-The accepted papers will not be published in a proceeding—PDFs will instead appear on the workshop's website.
-
-**Important guidelines.**
-It's standard for papers to start with a general motivation: Moore's Law is doomed; specialized hardware is ascendant; Verilog is hard to use; etc.
-*Please skip this part* in your LATTE position paper (and in eventual talks at the workshop).
-The LATTE audience will already believe these things, so save the space & time and instead focus on your own unique ideas.
-As much as possible, dispose with the framing and motivation so you can focus on the technical content.
-
-Remember that the goal at LATTE is to stimulate discussion, not to disseminate fully polished results.
-So don't be afraid to write up half-baked ideas and in-progress work: it's OK if your submission has zero bar charts, for example.
-
-For examples of past position papers, consider looking at the programs for [LATTE ’25][latte-25] [LATTE ’24][latte-24], [’23][latte-23], [’22][latte-22], and [’21][latte-21].
-
-**Generative AI policy.**
-Using an LLM to fully generate your paper is grounds for desk rejection. Using an LLM for stylistic edits is fine, but keep in mind that we want to hear your ideas expressed by you, not by the LLM.
-
-We are also not interested in LLM-focused research. LATTE is a venue for discussing languages and tools by humans and for humans.
-
+* "Modeling multi-chiplet architectures for TPU co-design." Kavya Sreedhar, Pritha Doddahosahally Narayanappa, Hung-Ming Hsu, Khai Tran, Hardie Cate, Narges Shahidi, Zhijie Deng, Avinash Lingamneni, Thejasvi Vijayaraj, and Aditya Yanamandra (Google); Sameer Kumar (Meta); Ming Liu and Lluis-Miquel Munguia (Google)
+* "OPERA: Towards an Open Platform for Extensible Robust Accelerators." Federico Nicolás Peccia and Anton Paule (FZI Research Center for Information Technology); Oliver Bringmann (University of Tübingen)
+* "From Pragmas to Partners: A Symbiotic Evolution of Agentic High-Level Synthesis." Niansong Zhang and Sunwoo Kim (Cornell University); Shreesha Srinath (Cerebras Systems); Zhiru Zhang (Cornell University)
+* "Interactive Compiler Scheduling with Strong Guarantees." Evan Williams (Unaffiliated); Justin Lubin (UC Berkeley); Rubens Lacouture (Stanford University); Olivia Hsu (Stanford University, Carnegie Mellon University)
+* "TaPaSCo: Towards a Plug-and-Play FPGA Experience." Torben Kalkhof, David Volz, and Andreas Koch (TU Darmstadt)
+* "A Position on Language Abstraction for Custom Circuit Design." Yongsheng Qin and Zachary D. Sisco (The Chinese University of Hong Kong, Shenzhen)
+* "Is It a Good Idea to Build an HLS Tool on Top of MLIR? Experience from Building the Dynamatic HLS Compiler." Jiahui Xu, Emmet Murphy, and Lana Josipović (ETH Zurich)
+* "Hardware Deserves a REPL." Karl Hallsby and Peter Dinda (Northwestern University)
+* "Implementing Cache Coherence with Coroutines: A Case Study." Andrew David Alex (University of Washington); Jingtao Xia (UC Santa Barbara); Gus Henry Smith (Southmountain Research); Rachit Nigam (MIT CSAIL); Jonathan Balkind (UC Santa Barbara); Gilbert Bernstein (University of Washington)
+* "A Position on Tropical-Time for HLS." Sijie Kong (UC Santa Barbara); Jonathan Balkind (UCSB)
+* "Encoding Purely Functional Languages in an RTL-based Compiler." Amelia Dobis, Gongqi Huang, and Mae Milano (Princeton University)
+* "Towards Choreographic Programming for Hardware Design." Arjun Vedantham and William S. Moses (University of Illinois Urbana-Champaign)
+* "Marlin: A Hardware Testing and Simulation Frontend in Rust." Ethan Uppal (Cornell University)
+* "Unifying HLS and RTL with Timeline Types." Jingtao Xia (University of California, Santa Barbara); Ayana Alemayehu (MIT); Sijie Kong (University of California, Santa Barbara); Rachit Nigam (MIT); Jonathan Balkind and Ben Hardekopf (University of California, Santa Barbara)
+* "STAMPS: Fast Synthesis Through Specialized Templates." Kalyan Sriram and Joshua San Miguel (University of Wisconsin - Madison)
+* "CaST: Balancing Accelerator Design." Alborz Jelvani, Richard P. Martin, and Negin Dehghanchaleshtori (Rutgers University)
+* "Portable Dynamic Tiling for Sparse Tensor Accelerators." Sai Gautham Ravipati, Fredrik Berg Kjolstad, Priyanka Raina, and Olivia Hsu (Stanford University)
+* "Defining Safe Hardware Design." Rachit Nigam (MIT)
+* "Check out my sabbatical project." Jonathan Balkind (UC Santa Barbara)
+* "STEP: Spatially Threaded Execution Pipeline." Ang Da Lu, Jiayi Wang, and Ang Li (University of Washington)
+* "Cyclotron: The Streaming Multiprocessor Abstraction is Dead." Shiv Sundram, Akhilesh Balasingam, Thierry Thambe, Kunle Olukoturn, and Fredrik Kjolstad (Stanford University)
+* "Language-based Hardware Communication Safety and Liveness." Aditya Ranjan Jha, Jason Yu, Umang Mathur, Trevor E. Carlson, and Prateek Saxena (National University of Singapore)
+* "fud2: A Framework for Making Build Tool Orchestrators." Jeremy Ku-Benjet and Adrian Sampson (Cornell University)
+* "Prost! Coroutine-based Hardware Description." Florian Riedl, Tobias Scheipel, and Marcel Baunach (Graz University of Technology)
 
 ## Organizers
 
@@ -100,15 +59,6 @@ LATTE's organizing team this year is:
 * [Frans Skarman](https://cs.hm.edu/kontakte_de/phonebook_detailseite_106580.de.html), Munich University of Applied Sciences
 * [Edward Wang](https://edwardw.compdigitec.com/), MIT
 
-[hotcrp]: https://latte.cs.cornell.edu/
-[snapl]: http://cs.brown.edu/~sk/Memos/Conference-Discussion-Format/
-[sigplanconf]: https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart.pdf
-[format-example]: https://github.com/cucapra/latte23/tree/main/camera-ready
-[latte-21]: https://capra.cs.cornell.edu/latte21/
-[latte-22]: https://capra.cs.cornell.edu/latte22/
-[latte-23]: https://capra.cs.cornell.edu/latte23/
-[latte-24]: https://capra.cs.cornell.edu/latte24/
-[latte-25]: https://capra.cs.cornell.edu/latte25/
-
 [asplos]: https://www.asplos-conference.org/asplos2026/
 [matrix]: https://matrix.to/#/#latte-chat:fossi-foundation.org
+[cfp]: @/cfp.md
