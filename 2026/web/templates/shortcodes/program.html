@@ -5,7 +5,7 @@
 {% set sessions = data.records | map(attribute="3") | unique | sort %}
 
 {% for session in sessions %}
-<h3 id="{{ session | slugify}}">{{ session }}</h3>
+<h3 id="{{ session | slugify}}">Session {{ session }}</h3>
 <ul class="session">
 {% for record in data.records | filter(attribute="3", value=session) %}
 <li>
