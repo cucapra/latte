@@ -18,7 +18,7 @@ ID,Title,Authors,Session,Remote
 23,Portable Dynamic Tiling for Sparse Tensor Accelerators,"Sai Gautham Ravipati, Fredrik Berg Kjolstad, Priyanka Raina, and Olivia Hsu (Stanford University)",6,false
 24,Defining Safe Hardware Design,Rachit Nigam (MIT),4,false
 25,Check out my sabbatical project,Jonathan Balkind (UC Santa Barbara),1,true
-27,STEP: Spatially Threaded Execution Pipeline,"Ang Da Lu, Jiayi Wang, and Ang Li (University of Washington)",6,false
+27,STEP: Spatially Threaded Execution Pipeline,"Ang Da Lu, Jiayi Wang, and Ang Li (University of Washington)",6,true
 28,Cyclotron: The Streaming Multiprocessor Abstraction is Broken,"Shiv Sundram, Akhilesh Balasingam, Thierry Tambe, Kunle Olukotun, and Fredrik Kjolstad (Stanford University)",6,false
 29,Language-based Hardware Communication Safety and Liveness,"Aditya Ranjan Jha, Jason Yu, Umang Mathur, Trevor E. Carlson, and Prateek Saxena (National University of Singapore)",4,false
 30,fud2: A Framework for Making Build Tool Orchestrators,Jeremy Ku-Benjet and Adrian Sampson (Cornell University),2,true
