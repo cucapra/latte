@@ -1,0 +1,25 @@
+{% set sched = load_data(path="content/schedule.csv", format="csv") %}
+<table class="schedule">
+  <thead>
+    <tr>
+      <th>Time (EDT)</th>
+      <th>Event</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for row in sched.records %}
+    {% set start = row[0] %}
+    {% set end = row[1] %}
+    {% set session = row[2] %}
+    {% set event = row[3] %}
+    <tr>
+      <td>{{start}}&ndash;{{end}}</td>
+      {% if session %}
+      <td><a href="#{{ session | slugify }}">Session {{session}}</a>: {{event}}</td>
+      {% else %}
+      <td>{{event}}</td>
+      {% endif %}
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
