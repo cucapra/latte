@@ -33,7 +33,7 @@ All times are in Pittsburgh time (Eastern Daylight Time (EDT)).
 |Time (EDT)   | Event                          |
 |------------ |-------                         |
 | 9:00-9:15   | Introduction                   |
-| 9:15-10:00  | [Session 1](#session-1): High level design abstractions |
+| 9:15-10:00  | [Session 1](#session-1): High-Level design abstractions |
 | 10:00-10:30 | Coffee break                   |
 | 10:30-11:30 | [Session 2](#session-2): Tools                          |
 | 11:30-12:00 | [Session 3](#session-3): Coroutines                     |
@@ -42,7 +42,7 @@ All times are in Pittsburgh time (Eastern Daylight Time (EDT)).
 | 14:30-15:30 | [Session 5](#session-5): EDA                            |
 | 15:30-16:00 | Coffee break                   |
 | 16:00-17:00 | [Session 6](#session-6): Programming Accelerators       |
-| 17:00-17:45 | [Session 7](#session-7): High Level Design Abstractions |
+| 17:00-17:45 | [Session 7](#session-7): High-Level Design Abstractions |
 | 17:45-18:00 | Closing                        |
 
 
