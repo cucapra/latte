@@ -13,7 +13,7 @@
     {% set session = row[2] %}
     {% set event = row[3] %}
     <tr>
-      <td>{{start}}&ndash;{{end}}</td>
+      <td><a href="https://zonr.dev/2026-03-23T{{start}}:00-04:00">{{start}}&ndash;{{end}}</a></td>
       {% if session %}
       <td><a href="#{{ session | slugify }}">Session {{session}}</a>: {{event}}</td>
       {% else %}

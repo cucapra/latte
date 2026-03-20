@@ -23,7 +23,8 @@ you've run into, or just hang out with the community.
 ## Program
 
 Here's the schedule for the workshop.
-All times are in Pittsburgh time (Eastern Daylight Time (EDT)).
+All times are in Pittsburgh time (Eastern Daylight Time (EDT)) on Monday, March 23.
+Click the time in the left-hand column to see it in your time zone.
 
 {{ schedule() }}
 
