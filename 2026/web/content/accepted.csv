@@ -3,7 +3,7 @@ ID,Title,Authors,Session,Remote
 2,OPERA: Towards an Open Platform for Extensible Robust Accelerators,Federico Nicolás Peccia and Anton Paule (FZI Research Center for Information Technology); Oliver Bringmann (University of Tübingen),2,true
 5,From Pragmas to Partners: A Symbiotic Evolution of Agentic High-Level Synthesis,Niansong Zhang and Sunwoo Kim (Cornell University); Shreesha Srinath (Cerebras Systems); Zhiru Zhang (Cornell University),7,false
 6,Interactive Compiler Scheduling with Strong Guarantees,"Evan Williams (Unaffiliated); Justin Lubin (UC Berkeley); Rubens Lacouture (Stanford University); Olivia Hsu (Stanford University, Carnegie Mellon University)",6,false
-7,TaPaSCo: Towards a Plug-and-Play FPGA Experience,"Torben Kalkhof, David Volz, and Andreas Koch (TU Darmstadt)",5,false
+7,TaPaSCo: Towards a Plug-and-Play FPGA Experience,"Torben Kalkhof, David Volz, and Andreas Koch (TU Darmstadt)",5,true
 8,A Position on Language Abstraction for Custom Circuit Design,"Yongsheng Qin and Zachary D. Sisco (The Chinese University of Hong Kong, Shenzhen)",5,true
 9,Is It a Good Idea to Build an HLS Tool on Top of MLIR? Experience from Building the Dynamatic HLS Compiler,"Jiahui Xu, Emmet Murphy, and Lana Josipović (ETH Zurich)",1,false
 11,Hardware Deserves a REPL,Karl Hallsby and Peter Dinda (Northwestern University),2,false
