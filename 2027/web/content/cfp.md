@@ -58,7 +58,7 @@ In addition, we are looking for papers that propose new themes like these. These
 
 Position paper submissions will undergo peer review by a program committee of interdisciplinary experts working on both high-level (languages, compilers, drivers) and low-level (circuit optimization, interconnect design) problems in the area.
 
-**Formatting.** Papers should use the two-column [the formatting guidelines for SIGPLAN conferences][sigplanconf] (the `acmart` format with the `sigplan` two-column option) and not exceed 2 pages, excluding references. Review is single-blind, so please include authors' names on the submitted PDF.
+**Formatting.** Papers should use the two-column [formatting guidelines for SIGPLAN conferences][sigplanconf] (the `acmart` format with the `sigplan` two-column option) and not exceed 2 pages, excluding references. Review is single-blind, so please include authors' names on the submitted PDF.
 We provide [a LaTeX example][format-example] that contains the correct formatting.
 
 Paper submission will be via [HotCRP][hotcrp].
