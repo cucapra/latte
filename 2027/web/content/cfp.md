@@ -94,5 +94,5 @@ Using an LLM to fully generate parts of your paper is grounds for desk rejection
 [latte-25]: https://capra.cs.cornell.edu/latte25/
 [latte-26]: https://capra.cs.cornell.edu/latte26/
 
-[asplos]: https://www.asplos-conference.org/asplos2026/
+[asplos]: https://www.asplos-conference.org/asplos2027/
 [matrix]: https://matrix.to/#/#latte-chat:fossi-foundation.org
