@@ -62,7 +62,7 @@ Position paper submissions will undergo peer review by a program committee of in
 We provide [a LaTeX example][format-example] that contains the correct formatting.
 
 Paper submission will be via [HotCRP][hotcrp].
-The accepted papers will not be published in a proceeding—PDFs will instead appear on the workshop's website.
+The accepted papers will not be published in proceedings; PDFs will instead appear on the workshop's website.
 
 **Important guidelines.**
 It's standard for papers to start with a general motivation: Moore's Law is doomed; specialized hardware is ascendant; Verilog is hard to use; etc.
