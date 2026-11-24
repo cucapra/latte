@@ -8,7 +8,7 @@ LATTE is a venue for discussion, debate, and brainstorming at the intersection o
 Submit your **2-page position paper** via [HotCRP][hotcrp].
 Important dates:
 
-- Paper submission: **February 10, 2027** (tentative)
+- Paper submission: **February 10, 2027, AoE** (tentative)
 - Author Notification: **February 28, 2027** (tentative)
 - Workshop: **April 11 or 12, 2027**
 
