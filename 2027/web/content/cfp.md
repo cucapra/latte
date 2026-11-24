@@ -68,7 +68,7 @@ The accepted papers will not be published in a proceeding—PDFs will instead ap
 It's standard for papers to start with a general motivation: Moore's Law is doomed; specialized hardware is ascendant; Verilog is hard to use; etc.
 *Please skip this part* in your LATTE position paper (and in eventual talks at the workshop).
 The LATTE audience will already believe these things, so save the space & time and instead focus on your own unique ideas.
-As much as possible, dispose with the framing and motivation so you can focus on the technical content.
+As much as possible, leave off excess framing and motivation, so that you can focus on core technical content.
 
 Remember that the goal at LATTE is to stimulate discussion, not to disseminate fully polished results.
 So don't be afraid to write up half-baked ideas and in-progress work: it's OK if your submission has zero bar charts, for example.
