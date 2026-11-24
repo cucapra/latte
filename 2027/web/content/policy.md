@@ -8,7 +8,7 @@ Authors have a chance to prepare a camera-ready revision; we then post this on t
 
 ## No Proceedings
 
-LATTE does not have an archival proceedings.
+LATTE does not have archival proceedings.
 Position papers accepted at LATTE do not go into the ACM Digital Library and they do not get a DOI.
 We informally host them on the workshop's website.
 
