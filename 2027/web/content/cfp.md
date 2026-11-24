@@ -46,7 +46,7 @@ The primary goal of the workshop is to enable discussion. It will accept **2-pag
 The workshop will allocate short time slots to the papers, each paired with a discussion following [SNAPL][]'s discussion format:
 “table discussion” where small breakout groups will discuss the paper, followed by plenary Q&A.
 
-In order to make sure that papers are aligned with the topics of the workshop, they should explicitly address one (or more!) of these themes
+In order to make sure that papers are aligned with the topics of the workshop, they should explicitly address one (or more ideally!) of these themes:
 
 - Hardware design tools MUST change
 - Verification REMAINS the key challenge
