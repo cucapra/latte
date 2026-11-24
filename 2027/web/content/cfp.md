@@ -54,7 +54,7 @@ In order to make sure that papers are aligned with the topics of the workshop, t
 
 For example, papers presenting a new tool or language are still encouraged, but rather than just presenting your new tool, try to make it fit with the themes by arguing that "Hardware description languages must change to address X,  that is why Y does Z".
 
-In addition, we are looking for papers that propose new themes like these. These should be centered on a *clearly and concisely articulated* theme of your own choosing. The goal of these papers should be to spark discussions at the workshop, and they swill be given more time for deeper discussion at the event. Apply the following tests when creating a theme: (1) does it apply more broadly than just your paper, and (2) can it be articulated with a short sentence.
+In addition, we are looking for papers that propose new themes like these. These should be centered on a *clearly and concisely articulated* theme of your own choosing. The goal of these papers should be to spark discussions at the workshop, and they will be given more time for deeper discussion at the event. Apply the following tests when creating a theme: (1) does it apply more broadly than just your paper, and (2) can it be articulated with a short sentence.
 
 Position paper submissions will undergo peer review by a program committee of interdisciplinary experts working on both high-level (languages, compilers, drivers) and low-level (circuit optimization, interconnect design) problems in the area.
 
