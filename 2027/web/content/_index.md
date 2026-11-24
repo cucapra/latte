@@ -7,7 +7,7 @@ LATTE is a venue for discussion, debate, and brainstorming at the intersection o
 
 LATTE is a hybrid workshop; please consider attending either in person (in Heraklion, Greece, co-located with [ASPLOS][]) or virtually (on Zoom). LATTE will be held on April 11 or 12, 2027.
 
-* To attend in person, [register to attend ASPLOS workshops (we will share a link once it's avaible)][asplos-reg].
+* To attend in person, [register to attend ASPLOS workshops (we will share a link once it's available)][asplos-reg].
 * To attend virtually, no conference registration is required. Please [sign up using the Zoom form that will be made available here soon][zoom] to receive a link to join.
 
 [asplos-reg]:
