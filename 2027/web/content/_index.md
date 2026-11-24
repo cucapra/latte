@@ -23,7 +23,7 @@ you've run into, or just hang out with the community.
 ## Program
 
 The program will be made available once the papers have been selected.
-<!-- All times are in Heraklion time (Eastern European Time (EET) / UTC+2) on April 11 or 12.
+<!-- All times are in Heraklion time (Eastern European Summer Time (EEST) / UTC+3) on April 11 or 12.
 Click the time in the left-hand column to see it in your time zone. -->
 <!-- 
 {{ schedule() }} -->
