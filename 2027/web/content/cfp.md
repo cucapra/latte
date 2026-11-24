@@ -74,7 +74,7 @@ Remember that the goal at LATTE is to stimulate discussion, not to disseminate f
 So don't be afraid to write up half-baked ideas and in-progress work: it's OK if your submission has zero bar charts, for example.
 
 **Short vs. Long submissions.**
-Once accepted, we will allocate either a short or a long talk slot depending scheduling availability and what type of submission was selected. It is also possible that the papers will receive 1-2 additional pages of content depending on what category it is accepted in. Both categories of papers must follow the themes and guidelines we presented above, with the end-goal of supporting a good discussion during the workshop.
+Accepted papers get a short or long talk slot, depending on the category and scheduling, and may get 1-2 extra pages. Both categories should follow the themes and guidelines above. The goal is to stimulate a good discussion during the workshop.
 
 For examples of past position papers, consider looking at the programs for [LATTE ’26][latte-26], [LATTE ’25][latte-25], [LATTE ’24][latte-24], [’23][latte-23], [’22][latte-22], and [’21][latte-21].
 
